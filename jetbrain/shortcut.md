@@ -1,0 +1,2 @@
+- Search everywhere: shift, shift
+- Select entire line: triple clicks
