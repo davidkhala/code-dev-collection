@@ -1,0 +1,2 @@
+- Open the terminal: ctrl + `
+- Open Preview (for markdown): ctrl + shift + v
