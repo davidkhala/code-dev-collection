@@ -1,0 +1,18 @@
+repo_name: davidkhala/code-dev-collection
+report_id: 66ab596540b1a6dc5f441148656c37dc
+repo_type: Public
+timestamp: '2023-11-17T00:45:03+00:00'
+requested_by: davidkhala
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
