@@ -6,4 +6,6 @@
 
 [dummy file generator](https://pinetools.com/random-file-generator)
 
+[Data tool collection](https://github.com/davidkhala/data/wiki/IDE,-Studio)
+
 
