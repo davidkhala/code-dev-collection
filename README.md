@@ -6,7 +6,9 @@
 
 [dummy file generator](https://pinetools.com/random-file-generator)
 
-[public sftp](http://speedtest.tele2.net/)
+[public sftp]
+- http://speedtest.tele2.net/
+- https://dlptest.com/ftp-test/
 
 [Data tool collection](https://github.com/davidkhala/data/wiki/IDE,-Studio)
 
