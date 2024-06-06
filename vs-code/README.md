@@ -3,3 +3,5 @@
 
 # Favorite extension
 - shell-format: the bash shell code formatter.
+# Alternative
+[VSCodium](https://vscodium.com/): Free/Libre Open Source Software Binaries of VS Code
