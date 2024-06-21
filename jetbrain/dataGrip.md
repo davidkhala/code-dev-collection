@@ -1,6 +1,10 @@
 `DBMSOUTPUT` is disabled by default. You cannot see the output of DBMS package running
 - `Ctrl+Shift+B` in Services view to enable
 
+Data source Export/Import
+- Export: Open menu of target data source -> `Copy/Paste` -> `Copy Data Source`
+- Import: icon 【+】 -> `Import from Clipboard`
+
 ### Configure SSH tunnel
 ![image](https://github.com/davidkhala/code-dev-collection/assets/7227589/f307631f-718b-4311-9b96-00c60cea92de)
 
@@ -13,3 +17,4 @@
 - [A known issue](https://github.com/awslabs/aws-mysql-jdbc/issues/503)
 - Reproduce: DataGrip version: 2024.1.4 (June 2024). Connect to Aurora MySQL cluster endpoint
 - Solution 1: Switch to "MariaDB driver for Aurora MySQL" from "AWS driver for Aurora MySQL"
+
