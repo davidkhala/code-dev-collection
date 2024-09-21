@@ -1,0 +1,1 @@
+- `cargo check` is the behind command for **Sync \<project-name\> project**
