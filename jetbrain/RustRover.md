@@ -1,1 +1,3 @@
 - `cargo check` is the behind command for **Sync \<project-name\> project**
+  - There is no way to set the environment for **Refresh Cargo Projects** in IDE.
+  - You have to set them in OS user or system level 
