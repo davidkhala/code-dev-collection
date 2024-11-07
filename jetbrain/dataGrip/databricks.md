@@ -2,4 +2,4 @@
 # Driver: `Databricks`
 Databricks Driver connect SQL Warehouse
 - endpoint JDBC URL can be found in tab **Connection details**
-- Databricks personal access token (PAT) authN should be placed as suffix of JDBC URL `...;PWD=<personal-access-token>`
+- Databricks personal access token (PAT) authN: token provided as suffix of JDBC URL `;UID=token;PWD=<personal-access-token>`
