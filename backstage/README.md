@@ -1,5 +1,7 @@
 # Backstage: Software Templates, Software Catalog & TechDocs
 
+
+
 ## Software Catalog
 > managing your software (microservices, libraries, data pipelines, websites, ML models, etc.)
 
@@ -9,6 +11,15 @@
 
 ## TechDocs
 > using a "docs like code" approach
+
+# [Install](https://backstage.io/docs/getting-started/)
+Pre-requisite
+- On Unix-based operating system only
+- Ports ready to be opened: 3000, 7007
+- git
+- docker
+- NodeJs
+- yarn (npm)
 
 # History
 [The Spotify Story](https://backstage.io/docs/overview/background/)
