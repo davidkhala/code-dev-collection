@@ -15,6 +15,7 @@
 # [Install](https://backstage.io/docs/getting-started/)
 Pre-requisite
 - On Unix-based operating system only
+- `curl`
 - Ports ready to be opened: 3000, 7007
 - git
 - docker
