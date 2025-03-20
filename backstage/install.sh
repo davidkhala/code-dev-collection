@@ -1,9 +1,10 @@
+#!/bin/bash
 set -e
 prepare-ubuntu() {
-    sudo apt install -y git make build-essential nodejs 
-    npm install -g corepack
+    sudo apt install -y git make build-essential nodejs npm curl
+    sudo npm install -g corepack
     
-    curl -sSL https://raw.githubusercontent.com/davidkhala/linux-utils/refs/heads/main/apps/docker/install.sh | install-rootless
+    curl -sSL https://raw.githubusercontent.com/davidkhala/ubuntu-utils/refs/heads/master/apps/docker.sh | bash -s install
 }
 
-$@
+"$@"
