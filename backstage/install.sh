@@ -3,6 +3,9 @@ set -e
 install() {
     sudo npm install -g corepack
     yarn set version 4.4.1
+    if [ -n "$CI" ]; then
+        yarn config set -H enableImmutableInstalls false
+    fi
 
     local appName=$1
 
