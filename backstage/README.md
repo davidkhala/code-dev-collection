@@ -22,6 +22,9 @@ Pre-requisite
 - NodeJs
 - yarn (npm)
 
+scripts
+- Ubuntu: `curl https://raw.githubusercontent.com/davidkhala/ubuntu-utils/refs/heads/master/apps/backstage.sh | bash -s prepare`
+
 # History
 [The Spotify Story](https://backstage.io/docs/overview/background/)
 > Backstage was originally built by Spotify and then donated to the CNCF

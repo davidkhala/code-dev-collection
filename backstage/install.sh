@@ -1,10 +1,14 @@
 #!/bin/bash
 set -e
-prepare-ubuntu() {
-    sudo apt install -y git make build-essential nodejs npm curl
+install() {
     sudo npm install -g corepack
-    
-    curl -sSL https://raw.githubusercontent.com/davidkhala/ubuntu-utils/refs/heads/master/apps/docker.sh | bash -s install
-}
+    yarn set version 4.4.1
+    # Interactive
+    npx @backstage/create-app@latest
+    # npm blackhole > This may take a few minutes to fully install everything. Don't stress if the loading seems to be spinning nonstop,
 
+}
+run() {
+    yarn dev
+}
 "$@"
