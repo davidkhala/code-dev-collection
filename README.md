@@ -10,9 +10,6 @@
 - http://speedtest.tele2.net/
 - https://dlptest.com/ftp-test/
 
-[Collection of free APIs on Internet](https://any-api.com/)
 
 [Data tool collection](https://github.com/davidkhala/data/wiki/IDE,-Studio)
 
-Developer Platform
-- Backstage: Software Catalog
