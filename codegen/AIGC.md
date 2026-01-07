@@ -5,5 +5,7 @@
 - [Cursor](http://cursor.so/)
 
 
-## Codegen for API
-[stainless](https://www.stainless.com/)
+## Gen SDK from API
+- [stainless](https://www.stainless.com/)
+- [fern](https://www.buildwithfern.com/)
+  - [source](https://github.com/fern-api/fern)
