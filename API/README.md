@@ -9,3 +9,6 @@
   - [source](https://github.com/postmanlabs/httpbin)
   - Not stable: http 502, 503 occasionally
   - my copy on GCP Cloud Run : https://httpbin-388394439802.asia-east2.run.app
+- [go-httpbin](https://github.com/mccutchen/go-httpbin)
+  - a rewrite fork of httpbin
+  - under active maintain
