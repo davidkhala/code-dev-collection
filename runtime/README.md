@@ -7,3 +7,4 @@
 - [python playground](https://programiz.pro/ide/python)
 ## [ngrok](https://ngrok.com/)
 > Connect anything, anywhere.
+- One gateway for every AI model
