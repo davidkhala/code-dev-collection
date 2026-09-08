@@ -5,5 +5,3 @@
 
 [programiz: code learning platform](https://programiz.pro/)
 - [python playground](https://programiz.pro/ide/python)
-## Regular Expression
-[Regex101](https://regex101.com/): explainer, matcher, multi-dialect
